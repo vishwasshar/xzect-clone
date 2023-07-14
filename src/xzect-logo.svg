@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.182" y1="0.568" x2="0.659" y2="0.197" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#07d1f1"/>
+      <stop offset="0.721" stop-color="#6572dc"/>
+      <stop offset="0.794" stop-color="#9c4bc2"/>
+      <stop offset="1" stop-color="#ff0594"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1.072" y1="1.042" x2="-0.035" y2="0.953" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff8d1d"/>
+      <stop offset="0.632" stop-color="#f83577"/>
+      <stop offset="1" stop-color="#f402ab"/>
+    </linearGradient>
+    <clipPath id="clip-xzect-logo_dark">
+      <rect width="1024" height="1024"/>
+    </clipPath>
+  </defs>
+  <g id="xzect-logo_dark" data-name="xzect-logo–dark" clip-path="url(#clip-xzect-logo_dark)">
+    <rect width="1024" height="1024" fill="#000030"/>
+    <g id="x-logo" transform="translate(-59.478 -58.966)">
+      <path id="x-bottom" d="M1563.478,1154.662h-1023l.31-1023.982,61.115,80.7-.763,882.667h840.52l-336.1-444.8,229.93-309.306h-90.733L1054.522,561.725,915.366,376.313c-2.633-3.509-34.786-6.214-43.348-27.557s-6.824-44.178,9.1-57.815,39.7-17.9,60.394-5.646,19.541,50.857,22.385,54.647L1057.678,464.9l159.177-185.576H1456.12L1181.347,648.95Z" transform="translate(-480 -71.695)" fill="url(#linear-gradient)"/>
+      <path id="x-top" d="M1023,1023.982H0L.018,0,59.224,78.347,60.661,963.5h840.52l-336.1-443.763L795.011,211.153H704.277L514.044,432.422,374.888,247.44c-2.633-3.5-34.786-6.2-43.348-27.493s-6.824-44.075,9.1-57.681,39.7-17.855,60.394-5.633,19.541,50.739,22.385,54.52L517.2,335.821,676.377,150.675H915.642L640.869,519.445Z" transform="translate(1082.477 1082.948) rotate(180)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>

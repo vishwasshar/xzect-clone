@@ -1,0 +1,57 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 3% 1%;
+  background-color: #1e1e1e;
+  color: #f0f0f0;
+}
+
+.about,
+.services,
+.industries,
+.resources {
+  display: flex;
+  flex-direction: column;
+}
+
+.about {
+  gap: 20px;
+  flex-basis: 35%;
+}
+
+.about:nth-child(1) {
+  text-align: justify;
+  line-height: 2.5;
+}
+
+.socialLinks {
+  display: flex;
+  gap: 5%;
+}
+
+.services,
+.industries,
+.resources {
+  gap: 10px;
+}
+
+.services a,
+.industries a,
+.resources a {
+  color: #929ba8;
+  text-decoration: none;
+}
+
+.services a:hover,
+.industries a:hover,
+.resources a:hover {
+  color: #bac3cf;
+}
+
+@media screen and (max-width: 1100px) {
+  .footer {
+    flex-direction: column;
+    padding: 3%;
+    gap: 30px;
+  }
+}

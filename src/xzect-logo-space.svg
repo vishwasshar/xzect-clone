@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1000" height="1000" viewBox="0 0 1000 1000" xml:space="preserve">
+<desc>Created with Fabric.js 3.5.0</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
+<g transform="matrix(0.9766 0 0 0.9766 500.0192 500.0192)" id="428082">
+<g style="" vector-effect="non-scaling-stroke">
+		<g transform="matrix(1 0 0 1 0 0)" id="xzect-logo_space" clip-path="url(#CLIPPATH_42)">
+<clipPath id="CLIPPATH_42">
+	<rect transform="matrix(1 0 0 1 0 0)" id="clip-xzect-logo_space" x="-512" y="-512" rx="0" ry="0" width="1024" height="1024"/>
+</clipPath>
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(0,0,48); fill-rule: nonzero; opacity: 1;" x="-512" y="-512" rx="0" ry="0" width="1024" height="1024"/>
+</g>
+		<g transform="matrix(1 0 0 1 0.5 0.01)" id="x-bottom" clip-path="url(#CLIPPATH_43)">
+<linearGradient id="SVGID_40" gradientUnits="objectBoundingBox" gradientTransform="matrix(1 0 0 1 849.978 440.671)" x1="0.182" y1="0.568" x2="0.659" y2="0.197">
+<stop offset="0%" style="stop-color:rgb(7,209,241);stop-opacity: 1"/>
+<stop offset="72.1%" style="stop-color:rgb(101,114,220);stop-opacity: 1"/>
+<stop offset="79.4%" style="stop-color:rgb(156,75,194);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(255,5,148);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_43">
+	<rect transform="matrix(1 0 0 1 -0.5 -0.01)" id="clip-xzect-logo_space" x="-512" y="-512" rx="0" ry="0" width="1024" height="1024"/>
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: url(#SVGID_40); fill-rule: nonzero; opacity: 1;" transform=" translate(-849.978, -440.671)" d="M 1159.478 750.662 h -619 l 0.187 -619.982 l 36.979 48.858 l -0.461 534.421 h 508.584 L 882.4 444.652 L 1021.526 257.38 h -54.9 L 851.517 391.661 l -84.2 -112.26 c -1.593 -2.124 -21.048 -3.762 -26.229 -16.685 s -4.129 -26.748 5.505 -35 s 24.021 -10.835 36.543 -3.418 s 11.824 30.792 13.545 33.087 l 56.747 75.657 l 96.315 -112.359 h 144.775 l -166.26 223.8 Z" stroke-linecap="round"/>
+</g>
+		<g transform="matrix(-1 0 0 -1 -0.501 -0.009)" id="x-top" clip-path="url(#CLIPPATH_44)">
+<linearGradient id="SVGID_41" gradientUnits="objectBoundingBox" gradientTransform="matrix(1 0 0 1 309.5 309.991)" x1="1.072" y1="1.042" x2="-0.035" y2="0.953">
+<stop offset="0%" style="stop-color:rgb(255,141,29);stop-opacity: 1"/>
+<stop offset="63.2%" style="stop-color:rgb(248,53,119);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(244,2,171);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_44">
+	<rect transform="matrix(-1 0 0 -1 -0.501 -0.009)" id="clip-xzect-logo_space" x="-512" y="-512" rx="0" ry="0" width="1024" height="1024"/>
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: url(#SVGID_41); fill-rule: nonzero; opacity: 1;" transform=" translate(-309.5, -309.991)" d="M 619 619.982 H 0 L 0.011 0 L 35.835 47.436 l 0.87 535.929 H 545.289 L 341.921 314.683 L 481.048 127.845 h -54.9 L 311.039 261.815 l -84.2 -112 c -1.593 -2.119 -21.048 -3.754 -26.229 -16.646 s -4.129 -26.686 5.505 -34.924 s 24.021 -10.81 36.543 -3.41 s 11.824 30.721 13.545 33.01 l 56.747 75.481 l 96.315 -112.1 H 554.039 L 387.779 314.5 Z" stroke-linecap="round"/>
+</g>
+</g>
+</g>
+<g transform="matrix(6.4251 0 0 6.4326 500.0005 500.0019)" id="954732">
+<path style="stroke: rgb(255,255,255); stroke-width: 21; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: none; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" transform=" translate(-79, -78.9999)" d="M 154.685 2.50049 H 154.711 L 154.738 2.49994 C 155.15 2.49126 155.491 2.81853 155.5 3.2304 L 155.5 3.23069 C 155.5 3.24095 155.5 3.25176 155.5 3.26283 L 155.499 3.28886 V 3.3149 V 154.686 C 155.499 155.135 155.135 155.5 154.685 155.5 H 3.31409 C 2.86449 155.5 2.5 155.135 2.5 154.686 V 3.3149 C 2.5 2.86483 2.86465 2.50049 3.31409 2.50049 H 154.685 Z" stroke-linecap="round"/>
+</g>
+</svg>

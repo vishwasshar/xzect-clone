@@ -1,0 +1,36 @@
+.header {
+  width: 100%;
+  color: white;
+  backdrop-filter: blur(10px);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 0 ;
+  background-color: rgba(0, 0, 0, 0.151);
+  border-width: 2px;
+  border-style: solid;
+  border-image: linear-gradient(
+      to right,
+      rgb(252, 88, 47),
+      rgb(0, 110, 255),
+      rgb(0, 204, 109)
+    )
+    0 0 100% 0;
+  
+  position: fixed;
+  z-index: 10;
+
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
